@@ -1,7 +1,7 @@
 <h1>🍽Sabor Express</h1>
 
 <h2>🍳 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto criado com o curso da alura de uma lista e cardapio de restaurantes.</p>
 
 ## 🥢 Tecnologias
 <div>
